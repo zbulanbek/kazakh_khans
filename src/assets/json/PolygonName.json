@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+          "id": "1183923",
+          "type": "Feature",
+          "properties": {
+            "id": "1183923",
+            "title": "Ногайская орда",
+            "hash": "1695070501",
+            "hash_end": "1695100201",
+            "type": "symbol",
+            "color": "red",
+            "text_size": 20,
+            "text_rotate": 25
+          },
+          "geometry": {
+            "coordinates": [
+              76.41295348667245,
+              43.17277006668917
+            ],
+            "type": "Point"
+          }
+        }
+    ]
+}

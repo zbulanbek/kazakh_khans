@@ -1,0 +1,45 @@
+ {
+    "type": "FeatureCollection",
+    "features": [
+    {
+        "id": 11,
+        "type": "Feature",
+        "properties": {
+          "id": "24",
+          "type": "dot",
+          "hash": "1695070701",
+          "hash_end": "1695090301",
+          "title": "Ак Тюз",
+          "description": "<h3>Ак Тюз</h3>",
+          "color": "red"
+        },
+        "geometry": {
+          "coordinates": [
+            76.11430311041562,
+            42.878281626906386
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "id": 12,
+        "type": "Feature",
+        "properties": {
+          "id": "25",
+          "type": "point",
+          "hash": "1695092501",
+          "hash_end": "1695112222",
+          "title": "Каргалы",
+          "description": "<h3>Каргалы</h3>",
+          "color": "green"
+        },
+        "geometry": {
+          "coordinates": [
+            76.41295348667245,
+            43.17277006668917
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+        "id": 1998,
+        "type": "Feature",
+        "properties": {
+          "id": "3403",
+          "type": "icon",
+          "hash": "1695070601",
+          "hash_end": "1695090301",
+          "title": "<h3>Абылай хан</h3>",
+          "description": "<h3>Абылай хан</h3><p>Политический деятель</p>",
+          "image": "https://e-history.kz/storage/tmp/resize/prominent-figures/1200_0_e7e6ea36928e9dfb34b461d58de73b96.JPG",
+          "route": "{\"type\":\"FeatureCollection\",\"features\":[{\"id\":96540839257727310,\"type\":\"Feature\",\"properties\":{},\"geometry\":{\"coordinates\":[[76.37707309991958,42.2203168278032],[76.32378224453043,41.99409091580952],[76.28570154548885,41.6777879154678],[76.27358578514253,41.29829205714489],[76.3224441984836,40.864879408691394],[76.49504930461467, 40.67832700959846]],\"type\":\"LineString\"}}]}"
+        },
+        "geometry": {
+          "coordinates": [
+            76.37707309991958,
+            42.2203168278032
+          ],
+          "type": "Point"
+        }
+    },
+    {
+        "id": 1999,
+        "type": "Feature",
+        "properties": {
+          "id": "3404",
+          "type": "icon",
+          "hash": "1695100201",
+          "hash_end": "1695100201",
+          "title": "<h3>Касым хан</h3>",
+          "description": "<h3>Касым хан</h3><p>Политический деятель</p>",
+          "image": "https://sun9-2.userapi.com/impf/aJGVXqTTzi4XzN0hnc4q7yfd26dZWujjopIpAg/VYz3NZJhOd4.jpg?size=500x720&quality=96&sign=98a1503ddb19ea3da9fbd6c77dc27b7a&type=album",
+          "route": "{\"type\":\"FeatureCollection\",\"features\":[{\"id\":96540839257727310,\"type\":\"Feature\",\"properties\":{},\"geometry\":{\"coordinates\":[[77.00959624035266,43.21127977449581],[77.33150216872014, 43.18794638342047],[77.75054752512926, 43.21846095237717],[ 77.88380505097632, 43.40818900028401],[78.26651326434808, 43.53574990044348],[78.72504144914404, 43.50911126930126], [78.74938191520943, 43.347127543465035]],\"type\":\"LineString\"}}]}"
+        },
+        "geometry": {
+          "coordinates": [
+            77.00959624035266,
+            43.21127977449581
+          ],
+          "type": "Point"
+        }
+    },
+    {
+        "id": 2000,
+        "type": "Feature",
+        "properties": {
+          "id": "3405",
+          "type": "icon_animate",
+          "hash": "16951123331",
+          "hash_end": "16951123334",
+          "title": "<h3>Кенесары хан</h3>",
+          "description": "<h3>Кенесары хан</h3><p>Политический деятель</p>",
+          "color": "#c7c39a"
+        },
+        "geometry": {
+          "coordinates": [
+            76.9021800138841,
+            42.61438031923754
+          ],
+          "type": "Point"
+        }
+    },
+    {
+        "id": 2001,
+        "type": "Feature",
+        "properties": {
+          "id": "3409",
+          "type": "icon_static",
+          "hash": "16951123331",
+          "hash_end": "16951123334",
+          "title": "Туркестан",
+          "color": "white",
+          "image": "https://sun9-2.userapi.com/impf/aJGVXqTTzi4XzN0hnc4q7yfd26dZWujjopIpAg/VYz3NZJhOd4.jpg?size=500x720&quality=96&sign=98a1503ddb19ea3da9fbd6c77dc27b7a&type=album"
+        },
+        "geometry": {
+          "coordinates": [
+           76.37707309991958,
+            42.2203168278032
+          ],
+          "type": "Point"
+        }
+    }
+
+  ]
+}
